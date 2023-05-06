@@ -1,3 +1,4 @@
+# deprecated
 
 Script to Get Warrant Symbol from Stock Exchange Thailand (SET)
 
